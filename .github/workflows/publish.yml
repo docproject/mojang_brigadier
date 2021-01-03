@@ -22,7 +22,7 @@ jobs:
 
       - name: Install Docker
         shell: bash
-        run: bash<(curl -fsSL https://get.docker.com)
+        run: curl -s https://get.docker.com | bash
 
       - name: Build documentation
         shell: bash
