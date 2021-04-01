@@ -1,0 +1,7 @@
+com.mojang.brigadier
+com.mojang.brigadier.arguments
+com.mojang.brigadier.builder
+com.mojang.brigadier.context
+com.mojang.brigadier.exceptions
+com.mojang.brigadier.suggestion
+com.mojang.brigadier.tree
